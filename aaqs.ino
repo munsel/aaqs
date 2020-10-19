@@ -52,9 +52,9 @@
 
 const char *DATABASE = "temp";
 const char *DB_USER = "airdroplet";
-const char *DB_PASSWORD = "VuRNqkK2YYftHhCQGKQE";
+const char *DB_PASSWORD = "YOUR_DB_PASSWORD";
 
-const char *INFLUXDB_SERVER = "influx.createyour.cloud";
+const char *INFLUXDB_SERVER = "YOUR_INFLUX_SERVER";
 uint16_t INFLUXDB_PORT = 80;       // Default InfluxDB UDP Port
 
 char INFLUXDB_HOST[40];             // Your InfluxDB Server FQDN
